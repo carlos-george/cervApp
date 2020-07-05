@@ -19,7 +19,7 @@
 	],
 
 	"disponibilidades": [
-		{ "id": 1, "nome": "Segurança contra o COVID-19", "imageURL": "https://imgur.com/iaTXemX.png" },
+		{ "id": 1, "nome": "Segurança contra a COVID-19", "imageURL": "https://imgur.com/iaTXemX.png" },
 		{ "id": 2, "nome": "Brinquedoteca", "imageURL": "https://imgur.com/0YUzSOT.png" },
 		{ "id": 3, "nome": "Area de Jogos", "imageURL": "https://imgur.com/8nCFLw7.png" },
 		{ "id": 4, "nome": "Banheiros Higienicos", "imageURL": "https://imgur.com/Ogral1Y.png" },
