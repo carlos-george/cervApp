@@ -40,7 +40,7 @@
       "descricao": "Um Burger Bar como nenhum outro. Ambiente diferenciado, hambúrgueres artesanais feitos na hora, entradas matadoras, drinks, chopp e cervejas especiais",
       "endereco": "Estrada do Galeão, 1200 - Ilha do Governador, Rio de Janeiro - RJ",
       "disponibilidades": [
-        { "id": 1, "nome": "Segurança contra o COVID-19", "imageURL": "https://imgur.com/iaTXemX.png" },
+        { "id": 1, "nome": "Segurança contra a COVID-19", "imageURL": "https://imgur.com/iaTXemX.png" },
         { "id": 2, "nome": "Brinquedoteca", "imageURL": "https://imgur.com/0YUzSOT.png" },
         { "id": 3, "nome": "Area de Jogos", "imageURL": "https://imgur.com/8nCFLw7.png" },
         { "id": 4, "nome": "Banheiros Higienicos", "imageURL": "https://imgur.com/Ogral1Y.png" }
@@ -70,7 +70,7 @@
       "descricao": "",
       "endereco": "",
       "disponibilidades": [
-        { "id": 1, "nome": "Segurança contra o COVID-19", "imageURL": "https://imgur.com/iaTXemX.png"  },
+        { "id": 1, "nome": "Segurança contra a COVID-19", "imageURL": "https://imgur.com/iaTXemX.png"  },
         { "id": 4, "nome": "Banheiros Higienicos", "imageURL": "https://imgur.com/Ogral1Y.png" },
         { "id": 5, "nome": "Musica ao Vivo", "imageURL": "https://imgur.com/GpIE2nB.png" },
         { "id": 6, "nome": "Kareoke", "imageURL": "https://imgur.com/18zAFwz.png" }
@@ -94,7 +94,7 @@
       "endereco": "",
       "distancia": "50m", 
       "disponibilidades": [
-        { "id": 1, "nome": "Segurança contra o COVID-19", "imageURL": "https://imgur.com/iaTXemX.png" },
+        { "id": 1, "nome": "Segurança contra a COVID-19", "imageURL": "https://imgur.com/iaTXemX.png" },
         { "id": 3, "nome": "Area de Jogos", "imageURL": "https://imgur.com/8nCFLw7.png" },
         { "id": 4, "nome": "Banheiros Higienicos", "imageURL": "https://imgur.com/Ogral1Y.png" },
         { "id": 5, "nome": "Musica ao Vivo", "imageURL": "https://imgur.com/GpIE2nB.png" }
